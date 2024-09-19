@@ -1,1 +1,2 @@
 # HacktheBox-machine-Wifinetic
+ Exploring Wireless Security with Wifinetic!**   I’ve just published a new article on my latest CTF experience with the Wifinetic machine, diving deep into wireless security and network monitoring. From FTP enumeration and password reuse attacks to cracking WPS PINs for full system access—it's all covered! 📚   In this article, you'll learn: - Enumeration techniques - Exploiting password reuse vulnerabilities 
